@@ -2,7 +2,7 @@
   <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 	<div class="container-fluid">
 	  <div class="navbar-header">
-		<a class="navbar-brand" href="#"><span>Bank Sampah Admin</span></a>
+		<a class="navbar-brand" href="#"><span>E-Coffee Gunungmalang Admin</span></a>
 		<ul class="user-menu">
 		  <li class="dropdown pull-right">
 			<a href="#" class="dropdown-toggle" data-toggle="dropdown"><svg class="glyph stroked male-user"><use xlink:href="#stroked-male-user"></use></svg> <?php echo $this->session->userdata('nama'); ?> <span class="caret"></span></a>
@@ -32,7 +32,7 @@
 	  <li class="dropdown-header">
 	  	<a href="<?php echo base_url('pengambilan/laporan'); ?>">
 			<svg class="glyph stroked clipboard with paper"><use xlink:href="#stroked-clipboard-with-paper"/></svg>
-			Data Pengambilan
+			Data Pengiriman
 		</a>
 	   </li>
 	  <li class="dropdown-header">

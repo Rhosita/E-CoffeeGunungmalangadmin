@@ -13,7 +13,7 @@ class Home extends CI_Controller {
 		$jumlah[2]=$this->data->get_all_num('produk');
 		$data=array(
 			'jumlah'=>$jumlah,
-			'title'=>'Bank Sampah',
+			'title'=>'E-Coffee Gunungmalang',
 			'isi' =>'home'
 			);
 		$this->load->view('layout/wrapper',$data); 

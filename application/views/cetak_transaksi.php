@@ -13,7 +13,7 @@
 	<table style="width:100%;">
 		<tr>
 			<td align="center">
-				<p style="font-size:36px; font-weight:bold; margin:20px 0 0 0;">BANK Sampah Srayan Makarya Purwokerto</p>
+				<p style="font-size:36px; font-weight:bold; margin:20px 0 0 0;">E-Coffee Gunungmalang</p>
 				Jl. Gunung Wilis Bobosan Purwokerto Utara Banyumas 53151
 			</td>
 		</tr>

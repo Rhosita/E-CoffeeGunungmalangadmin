@@ -12,7 +12,7 @@
 							<table class="table table-striped">
 								<thead>
 									<tr>
-										<th>Id Pengambilan</th>
+										<th>No</th>
 										<th>Nama User</th>
 										<th>Jumlah Ambil</th>
 										<th>Tgl Ambil</th>

@@ -20,7 +20,7 @@
 	<div class="row">
 		<div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
 			<div class="login-panel panel panel-default">
-				<div class="panel-heading">Login Bank Sampah</div>
+				<div class="panel-heading">Login E-Coffee Gunungmalang</div>
 				<?php if($this->session->flashdata('gagal')){?><p><strong><?php echo $this->session->flashdata('gagal');}?></strong></p>
 				<div class="panel-body">
 					<form action="<?php echo base_url(); ?>user/login" method="post" onsubmit="return validasi_input(this)">

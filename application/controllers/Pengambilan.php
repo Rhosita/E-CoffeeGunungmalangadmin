@@ -65,7 +65,7 @@ class Pengambilan extends CI_Controller {
 	
 	function laporan(){
 		$data=array(
-			'title'=>'Data Pengambilan',
+			'title'=>'Data Pengiriman',
 			'isi' =>'laporan',
 			'cont' =>'pengambilan',
 			);
